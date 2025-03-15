@@ -15,26 +15,7 @@ The dataset includes features such as:
 ⏳ Hour, Season, Holiday Status
 👥 Registered & Casual Users
 
-🚀 How to Run?
-1️⃣ Clone the repository:
 
-sh
-Copy
-Edit
-git clone https://github.com/thisisibrahim/bike-rental-prediction.git
-cd bike-rental-prediction
-2️⃣ Install dependencies:
-
-sh
-Copy
-Edit
-pip install -r requirements.txt
-3️⃣ Run the Jupyter Notebook:
-
-sh
-Copy
-Edit
-jupyter notebook
 🔥 Key Insights
 ✅ Feature Correlation: Weather & time significantly impact bike rentals.
 ✅ Data Visualization: Heatmaps, bar charts, and scatter plots for better insights.
